@@ -1,6 +1,6 @@
 # new_app
 
-A new Flutter project.
+A new Flutter project which generates words with the help of packages used in Flutter
 
 ## Getting Started
 
